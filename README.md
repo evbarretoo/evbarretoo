@@ -1,6 +1,6 @@
 # Oii, eu me chamo Evilen Barreto!
 
-  No momento me encontro na graduação, cursando Análise e Desenvolvimento de Sistemas na UniGrande. Sou Designer Gráfica nas horas vagas, e estou aprimorando meus conhecimentos em Arte 3D.
+  No momento me encontro na graduação, cursando Análise e Desenvolvimento de Sistemas na UniGrande. Sou Designer Gráfica durante meu tempo livre, e estou aprimorando meus conhecimentos em Arte 3D.
 
 ## Linguagens Dominadas
 
