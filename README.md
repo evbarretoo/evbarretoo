@@ -1,6 +1,8 @@
 # Oii, eu me chamo Evilen Barreto!
 
-## Linguagens com experiência
+  No momento me encontro na graduação, cursando Análise e Desenvolvimento de Sistemas na UniGrande. Sou Designer Gráfica nas horas vagas, e estou aprimorando meus conhecimentos em Arte 3D.
+
+## Linguagens Dominadas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python" />
