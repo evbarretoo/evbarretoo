@@ -2,7 +2,7 @@
 
   No momento me encontro na graduação, cursando Análise e Desenvolvimento de Sistemas na UniGrande. Sou Designer Gráfica durante meu tempo livre, e estou aprimorando meus conhecimentos em Arte 3D.
 
-## Linguagens Dominadas
+## Linguagens com Experiência
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>
