@@ -5,7 +5,7 @@
 ## Linguagens com Experiência
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>  
   <img src="./javascript.svg" height="60" title="JAVASCRIPT"/> 
   <img src="./html.svg" height="60" title="HTML5"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="35" title="CSS3"/>
