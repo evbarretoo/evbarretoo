@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>
   <img src="./javascript.svg" height="60"/>
   <img src="./html.svg" height="60"/>
-  <img src="./#" height="60"/>
+  <img src="./css.svg" height="60"/>
 </div>
 
 ## Redes Sociais
