@@ -9,6 +9,11 @@
   <img src="./javascript.svg" height="60"/>
   <img src="./html.svg" height="60"/>
   <img src="./css.svg" height="60"/>
+</div>
+
+## Frameworks
+
+<div>
   <img src="./react.svg" height="60"/>
 </div>
 
