@@ -5,8 +5,8 @@
 ## Linguagens com Experiência
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>
-  <img src="./javascript.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60"/>&nbsp
+  <img src="./javascript.svg" height="60"/>&nbsp
   <img src="./html.svg" height="60"/>
   <img src="./css.svg" height="60"/>
 </div>
@@ -14,7 +14,7 @@
 ## Frameworks
 
 <div>
-  <img src="./react.svg" height="60"/>
+  <img src="./react.svg" height="60"/>&nbsp
   <img src="./bootstrap.svg" height="60"/>
 </div>
 
