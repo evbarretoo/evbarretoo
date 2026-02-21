@@ -30,6 +30,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 <div>
   <img src="./windows.svg" height="60"/>
+  <img src="./linux.svg" height="60"/>
 </div>
 
 ## Redes Sociais
