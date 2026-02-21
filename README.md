@@ -38,7 +38,11 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title=""/>
   <a  href="https://www.instagram.com/evbarretoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="#"/>
-</div>
+</div><br>
 
-## 
+<div align="center"><img width="50%" alt="image" src="https://github.com/user-attachments/assets/8b9cc107-4e30-4e21-8e4b-2fe7e515253a" /></div><br>
+
 <div align= "center"><img src="./made-with-❤︎.svg" title="MADE WITH LOVE"/></div>
+<div align="center"><img width="50%" alt="divider-rose" src="https://github.com/user-attachments/assets/8b693ac0-b193-441b-b8a2-9b3afeef4627" /></div>
+
+
