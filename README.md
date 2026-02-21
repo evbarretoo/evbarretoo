@@ -11,7 +11,7 @@
   <img src="./css.svg" height="60"/>
 </div>
 
-## Frameworks Utilizados
+## Frameworks Integrados
 
 <div>
   <img src="./react.svg" height="60"/> &nbsp
