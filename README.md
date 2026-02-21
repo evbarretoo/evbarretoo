@@ -15,6 +15,7 @@
 
 <div>
   <img src="./react.svg" height="60"/>
+  <img src="./bootstrap.svg" height="60"/>
 </div>
 
 ## Redes Sociais
