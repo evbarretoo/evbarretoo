@@ -21,6 +21,10 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 ## Ambientes de Desenvolvimento Integrado (IDEs)
 
+<div>
+  <img src="./eclipse.svg" height="60"/>
+</div>
+
 ## Redes Sociais
 <div>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title=""/>
