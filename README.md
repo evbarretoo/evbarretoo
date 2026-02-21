@@ -28,7 +28,9 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 ## Sistemas Operacionais Explorados (SO)
 
-
+<div>
+  <img src="./windows.svg" height="60"/>
+</div>
 
 ## Redes Sociais
 <div>
