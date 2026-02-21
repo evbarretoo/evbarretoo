@@ -9,6 +9,7 @@
   <img src="./javascript.svg" height="60"/>
   <img src="./html.svg" height="60"/>
   <img src="./css.svg" height="60"/>
+  <img src="./react.svg" height="60"/>
 </div>
 
 ## Redes Sociais
