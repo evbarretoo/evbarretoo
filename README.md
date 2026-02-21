@@ -23,6 +23,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
 <div>
   <img src="./eclipse.svg" height="60"/>
+  <img src="./vscode.svg" height="60"/>
 </div>
 
 ## Sistemas Operacionais Explorados (SO)
