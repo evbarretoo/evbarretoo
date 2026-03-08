@@ -64,8 +64,14 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
   
 </div><br>
 <img src="./pixelgif.webp" width="65%"/>
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roseofcodes/roseofcodes/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roseofcodes/roseofcodes/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/roseofcodes/roseofcodes/output/pacman-contribution-graph.svg">
+</picture>
 <div align="center">
   <img width="100%" height="2" alt="image" src="https://github.com/user-attachments/assets/a612cb94-bb30-4bda-a51c-b3df0a0b408e" />
 </div><br>
