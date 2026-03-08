@@ -63,7 +63,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 
   
 </div><br>
-<img src="./pixelgif.webp" width="65%"/>
+<a href="#"><img src="./pixelgif.webp" width="100%"/></a>
 
 ## 
 
