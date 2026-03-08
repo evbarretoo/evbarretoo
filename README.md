@@ -65,7 +65,7 @@ No momento me encontro realizando graduação, cursando Análise e Desenvolvimen
 </div><br>
 <img src="./pixelgif.webp" width="65%"/>
 
-## My Contribution Graph
+## 
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roseofcodes/roseofcodes/output/pacman-contribution-graph-dark.svg">
